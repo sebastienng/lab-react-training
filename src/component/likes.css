@@ -1,0 +1,11 @@
+.colors-button {
+  color: white;
+  margin: auto;
+}
+
+button {
+  all: unset;
+
+  padding: 10px;
+  border-radius: 2px;
+}

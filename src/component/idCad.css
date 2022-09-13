@@ -1,0 +1,28 @@
+.idCard {
+  display: flex;
+  align-items: center;
+
+  width: 50%;
+  border: 1px solid black;
+  padding: 2px;
+  margin: auto;
+}
+
+.profil-picture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  all: unset;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0;
+  padding-left: 10px;
+}

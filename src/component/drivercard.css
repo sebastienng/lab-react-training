@@ -1,0 +1,38 @@
+.driver-card-display {
+  width: 40%;
+  border-radius: 5px;
+  color: white;
+  background-color: #455eb5;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 20px;
+}
+.driver-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.3rem;
+}
+.driver-picture {
+  display: fle;
+}
+.car-info {
+  font-size: 12px;
+}
+.driver-name {
+  font-weight: bold;
+  font-size: 18px;
+}
+.rating {
+  font-size: 14px;
+}
+img {
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+}

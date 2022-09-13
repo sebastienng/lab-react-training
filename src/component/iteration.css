@@ -1,0 +1,12 @@
+.iteration-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+h1 {
+  margin-left: 20rem;
+  padding-top: 2rem;
+  border-bottom: 3px solid black;
+}

@@ -1,0 +1,11 @@
+.colored-box {
+  width: 50%;
+  border: 1px solid black;
+  padding: 2px;
+  margin: auto;
+  display: inline-block;
+}
+
+p {
+  margin: 0px;
+}
